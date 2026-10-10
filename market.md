@@ -1,5 +1,5 @@
 # ALPHA-MARKETING
-Interactive Power BI dashboard analyzing HR data: employee headcount, salaries, hiring trends, and termination reasons by department, city, and gender.
+Multi-page Power BI dashboard analyzing marketing performance: revenue, ROI, ROAS, CAC, campaigns, customers, and channels.
 <img width="1153" height="554" alt="الصفحه الاولي " src="https://github.com/user-attachments/assets/76a45181-441a-40b4-a064-cbaa6efd15b6" />
 <img width="1156" height="556" alt="2" src="https://github.com/user-attachments/assets/0fa75b41-0d9a-44d0-91b3-bb32bafbfdba" />
 <img width="1145" height="543" alt="3" src="https://github.com/user-attachments/assets/692fdb64-b5c0-441b-9e8a-4f036bd5b86b" />
